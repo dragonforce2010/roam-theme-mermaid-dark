@@ -362,3 +362,9 @@
   background-color: var(--background-colour) !important;
   border: none;
 }
+.mermaid-dark .rm-bq {
+  background-color: #414e56;
+}
+.mermaid-dark .rm-command-palette__scroll-container .rm-command-palette__menu .rm-menu-item--active {
+  background-color: #45617d;
+}
